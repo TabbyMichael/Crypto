@@ -14,31 +14,32 @@ A modern, feature-rich cryptocurrency trading and educational platform built wit
 
 ## Screenshots
 
-### Add your application screenshots here
+### Application Interface
 
 1. Homepage
-![Homepage](public/Screenshot 2025-01-21 at 12.56.30.png)
+![Homepage](assets/homepage.png)
 
-1. Portfolio Dashboard
-![Dashboard](public/Screenshot 2025-01-21 at 12.57.04.png)
+2. Portfolio Dashboard
+![Dashboard](assets/dashboard.png)
 
-1. Trading Interface
-![Trading](public/Screenshot 2025-01-21 at 12.56.54.png)
+3. Trading Interface
+![Trading](assets/trading-interface.png)
+
+4. Demo Video
+[Watch Demo Video](assets/demo-video.mov)
 
 > **Adding Screenshots:**
-> 1. Navigate to `/public/screenshots` directory (already created)
-> 2. Take high-quality screenshots of your application's key features:
->    - Homepage and landing page
->    - Dashboard interface
->    - Trading view
->    - Portfolio management
->    - Educational sections
-> 3. Save screenshots with descriptive names (e.g., `public/Screenshot 2025-01-21 at 12.56.30.png, `[trading-view.png](https://github.com/TabbyMichael/Crypto/blob/main/public/Screenshot%202025-01-21%20at%2012.57.04.png)`)
-> 4. Update the image paths in this README accordingly
-> 5. Recommended specifications:
+> 1. Place screenshots in the `/assets` directory
+> 2. Take high-quality screenshots of your application's key features
+> 3. When adding new screenshots:
+>    - Use clear, descriptive filenames without spaces (e.g., `feature-name.png`)
+>    - Place images in the `assets` directory
+>    - Format: `![Description](assets/filename.png)`
+> 4. Recommended specifications:
 >    - Resolution: 1920x1080 (minimum)
 >    - Format: PNG or JPG
 >    - Aspect ratio: 16:9
+
 >    - Max file size: 2MB per image
 
 ## Tech Stack
