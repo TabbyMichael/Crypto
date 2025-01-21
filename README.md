@@ -17,13 +17,13 @@ A modern, feature-rich cryptocurrency trading and educational platform built wit
 ### Add your application screenshots here
 
 1. Homepage
-![Homepage](public/placeholder.jpg)
+![Homepage](public/Screenshot 2025-01-21 at 12.56.30.png)
 
-2. Portfolio Dashboard
-![Dashboard](public/placeholder.jpg)
+1. Portfolio Dashboard
+![Dashboard](public/Screenshot 2025-01-21 at 12.57.04.png)
 
-3. Trading Interface
-![Trading](public/placeholder.jpg)
+1. Trading Interface
+![Trading](public/Screenshot 2025-01-21 at 12.56.54.png)
 
 > **Adding Screenshots:**
 > 1. Navigate to `/public/screenshots` directory (already created)
@@ -33,7 +33,7 @@ A modern, feature-rich cryptocurrency trading and educational platform built wit
 >    - Trading view
 >    - Portfolio management
 >    - Educational sections
-> 3. Save screenshots with descriptive names (e.g., `homepage.png`, `trading-view.png`)
+> 3. Save screenshots with descriptive names (e.g., `public/Screenshot 2025-01-21 at 12.56.30.png, `[trading-view.png](https://github.com/TabbyMichael/Crypto/blob/main/public/Screenshot%202025-01-21%20at%2012.57.04.png)`)
 > 4. Update the image paths in this README accordingly
 > 5. Recommended specifications:
 >    - Resolution: 1920x1080 (minimum)
