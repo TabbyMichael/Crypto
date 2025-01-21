@@ -12,6 +12,35 @@ A modern, feature-rich cryptocurrency trading and educational platform built wit
 - 💸 USDC Staking with 4.5% APY
 - 🎨 Modern UI with Radix UI Components
 
+## Screenshots
+
+### Add your application screenshots here
+
+1. Homepage
+![Homepage](public/placeholder.jpg)
+
+2. Portfolio Dashboard
+![Dashboard](public/placeholder.jpg)
+
+3. Trading Interface
+![Trading](public/placeholder.jpg)
+
+> **Adding Screenshots:**
+> 1. Navigate to `/public/screenshots` directory (already created)
+> 2. Take high-quality screenshots of your application's key features:
+>    - Homepage and landing page
+>    - Dashboard interface
+>    - Trading view
+>    - Portfolio management
+>    - Educational sections
+> 3. Save screenshots with descriptive names (e.g., `homepage.png`, `trading-view.png`)
+> 4. Update the image paths in this README accordingly
+> 5. Recommended specifications:
+>    - Resolution: 1920x1080 (minimum)
+>    - Format: PNG or JPG
+>    - Aspect ratio: 16:9
+>    - Max file size: 2MB per image
+
 ## Tech Stack
 
 - **Framework:** Next.js 14
