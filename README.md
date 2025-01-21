@@ -25,8 +25,13 @@ A modern, feature-rich cryptocurrency trading and educational platform built wit
 3. Trading Interface
 ![Trading](assets/trading-interface.png)
 
-4. Demo Video
-[Watch Demo Video](assets/demo-video.mov)
+### Demo Video
+The demo video is available in the `assets/demo-video.mov` file. Due to GitHub's file size limitations, to view the demo:
+1. Clone the repository locally
+2. Navigate to the `assets` directory
+3. Open `demo-video.mov` with your preferred video player
+
+> **Note:** Consider uploading the demo video to YouTube or a similar platform for easier access and embedding the link here.
 
 > **Adding Screenshots:**
 > 1. Place screenshots in the `/assets` directory
